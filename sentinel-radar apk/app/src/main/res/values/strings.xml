@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sentinel Radar</string>
+    <string name="radar_title">CSI Radar Station</string>
+    <string name="radar_subtitle">PROJECT SENTINEL // 802.11n HT20 MULTIPATH DOPPLER ENGINE</string>
+    <string name="critical_fall_detected">CRITICAL FALL DETECTED</string>
+    <string name="dismiss_protocol">Acknowledge &amp; Reset Protocol</string>
+    <string name="state_empty">NOMINAL / EMPTY</string>
+    <string name="state_breathing">OCCUPIED (MICRO-DOPPLER)</string>
+    <string name="state_fall">FALL TRANSIENT</string>
+    <string name="nav_radar">Live Radar</string>
+    <string name="nav_exhibition">Exhibition Demo</string>
+    <string name="nav_hardware">Hardware &amp; Wiring</string>
+    <string name="nav_firmware">Code &amp; Specs</string>
+</resources>

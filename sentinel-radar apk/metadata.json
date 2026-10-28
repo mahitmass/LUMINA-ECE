@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel Radar",
+  "description": "Through-Wall Wi-Fi CSI Radar station for contactless fall detection, micro-Doppler respiration sensing, and real-time DSP telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pyserial==3.5
+numpy
+scipy
+websockets==13.0.1
